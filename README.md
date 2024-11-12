@@ -17,6 +17,9 @@ En este proyecto, se realiza la segmentación de clientes mediante KMeans, agrup
 In this project, customer segmentation is performed using KMeans, grouping customers into seven different segments. These segments facilitate the customization of marketing strategies and understanding of different customer profiles.
 
 ## Visualización de la información / Information Visualization
+
+https://prezi.com/view/JNniSINdwueTOdOJrTbh/
+
 Este notebook crea diversas tablas necesarias para el desarrollo de visualizaciones en Power BI, la implementación de los modelos de propensión y el modelo de segmentación. Es una parte fundamental para estructurar los datos y dar soporte a los análisis posteriores.
 
 This notebook generates various tables needed for developing visualizations in Power BI, implementing the propensity models, and the segmentation model. This step is essential for structuring data and supporting subsequent analyses.
